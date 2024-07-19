@@ -1,3 +1,4 @@
+{
 "name": "Options Theme Sonic Mega Collection",
   "description": "Options music in Sonic Mega Collection.",
   "author": "JJrosen101",
@@ -6,3 +7,4 @@
   "music": True,
   "ignore": [],
   "mappings": {}
+}
