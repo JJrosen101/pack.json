@@ -1,0 +1,8 @@
+"name": "Options Theme Sonic Mega Collection",
+  "description": "Options music in Sonic Mega Collection.",
+  "author": "JJrosen101",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": True,
+  "ignore": [],
+  "mappings": {}
